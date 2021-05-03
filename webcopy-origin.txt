@@ -1,0 +1,776 @@
+Uri: https://fonts.googleapis.com/css2?family=Montserrat:wght@100&family=Roboto+Mono:wght@300&display=swap
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\css2.css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v15/JTUQjIg1_i6t8kCHKm45_Qphzg.ttf
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\s\montserrat\v15\JTUQjIg1_i6t8kCHKm45_Qphzg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotomono/v13/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPQw.ttf
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\s\robotomono\v13\L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_gPqPQw.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\index.htm
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/codigo/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\codigo\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/localBitcoin.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\localBitcoin.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/localBitcoin2.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\localBitcoin2.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/paquetes2.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\paquetes2.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/paquetes3.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\paquetes3.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/paqueteseditado.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\paqueteseditado.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/wallet1modificado.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\wallet1modificado.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/wallet2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\wallet2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-comprar-un-paquete/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-comprar-un-paquete\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/Primero.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\Primero.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/Segundo.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\Segundo.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/tercero.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\tercero.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Como-Registrarme-en-TrustInvesting/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Como-Registrarme-en-TrustInvesting\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/flaticon/growth.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\flaticon\growth.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/flaticon/role-model.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\flaticon\role-model.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/flaticon/struggle.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\flaticon\struggle.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/flaticon/trust.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\flaticon\trust.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/font2/fontello.eot?53498710
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/font2/fontello.svg?53498710
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/font2/fontello.ttf?53498710
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/font2/fontello.woff2?53498710
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/font2/fontello.woff?53498710
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/1.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\1.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/3.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\3.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/4.jpeg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\4.jpeg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/5.jpeg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\5.jpeg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/exitoultimo.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\exitoultimo.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/Investing(4).jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\Investing(4).jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/Logo_Trust_Investing.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\Logo_Trust_Investing.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/paquetes.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\paquetes.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/trading.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\trading.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/Trustinvesting (1) (1) (1).png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\Trustinvesting (1) (1) (1).png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/InteresCompuesto2.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\InteresCompuesto2.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/Presentación1.jpg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\Presentación1.jpg
+Content Type: image/jpeg
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan Pasivo e Interes Compuesto/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan Pasivo e Interes Compuesto\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Plan-De-Compensacion-y-Detalles/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Plan-De-Compensacion-y-Detalles\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Preguntas-Frecuentes/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Preguntas-Frecuentes\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/bootstrap-5.0.0-beta3-dist/css/bootstrap.min.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\bootstrap-5.0.0-beta3-dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/bootstrap-5.0.0-beta3-dist/js/bootstrap.bundle.min.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\bootstrap-5.0.0-beta3-dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/bootstrap-5.0.0-beta3-dist/js/bootstrap.min.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\bootstrap-5.0.0-beta3-dist\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/Imagenes/5.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\Imagenes\5.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Quien-Soy2/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Quien-Soy2\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/codigo.js
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\codigo.js
+Content Type: application/javascript
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/font2/fontello.eot?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\font2\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/font2/fontello.svg?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\font2\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/font2/fontello.ttf?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\font2\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/font2/fontello.woff2?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\font2\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/font2/fontello.woff?52645752
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\font2\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/fontello.eot?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\fontello.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/fontello.svg?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\fontello.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/fontello.ttf?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\fontello.ttf
+Content Type: font/ttf
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/fontello.woff2?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\fontello.woff2
+Content Type: font/woff2
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/font/fontello.woff?52888854
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\font\fontello.woff
+Content Type: font/woff
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/Imagenes/1de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\Imagenes\1de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/Imagenes/2de2.png
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\Imagenes\2de2.png
+Content Type: image/png
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/Imagenes/bx-menu-alt-left.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\Imagenes\bx-menu-alt-left.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/Imagenes/telegram.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\Imagenes\telegram.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/Imagenes/whatsapp.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\Imagenes\whatsapp.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/index.html
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\index.html
+Content Type: text/html
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/style.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\style.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/Rango-o-Plan-de-Carreras/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\Rango-o-Plan-de-Carreras\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/style/estilos.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\style\estilos.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/style/fontello.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\style\fontello.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/style/fontello2.css
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\style\fontello2.css
+Content Type: text/css
+
+Uri: https://samuel3330.github.io/Trust-Investing/undraw/undraw_digital_currency_qpak.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\undraw\undraw_digital_currency_qpak.svg
+Content Type: image/svg+xml
+
+Uri: https://samuel3330.github.io/Trust-Investing/undraw/undraw_investing_7u74.svg
+File Name: C:\Users\Unlock Cell\Documents\Proyecto web\samuel3330.github.io\Trust-Investing\undraw\undraw_investing_7u74.svg
+Content Type: image/svg+xml
+
